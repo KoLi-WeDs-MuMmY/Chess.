@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Grandmaster Slate</string>
+    <string name="nav_play">Arena</string>
+    <string name="nav_active_game">Board</string>
+    <string name="nav_history">Archive &amp; Analysis</string>
+    <string name="hero_subtitle">OFFLINE TOURNAMENT ENGINE &amp; CENTIPAWN TELEMETRY</string>
+    <string name="current_streak_label">CURRENT STREAK</string>
+    <string name="best_streak_label">BEST STREAK</string>
+    <string name="win_rate_label">WIN RATE</string>
+    <string name="avg_accuracy_label">AVG ACCURACY</string>
+    <string name="select_ai_tier">Select Engine Strength</string>
+    <string name="select_time_control">Time Control Preset</string>
+    <string name="select_player_side">Your Pieces</string>
+    <string name="start_match_cta">Launch Tournament Match</string>
+    <string name="resume_match_cta">Resume Active Match</string>
+    <string name="hint_action">Best Move Hint</string>
+    <string name="flip_board_action">Flip Board</string>
+    <string name="resign_action">Resign</string>
+    <string name="new_game_action">New Setup</string>
+    <string name="analyze_game_cta">Analyze Match Telemetry</string>
+    <string name="empty_history_title">No Archived Matches Yet</string>
+    <string name="empty_history_subtitle">Complete a game against any AI level—or load a classic sample match—to unlock move-by-move centipawn evaluation, accuracy scores, and blunder arrows.</string>
+</resources>

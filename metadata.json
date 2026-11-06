@@ -1,0 +1,6 @@
+{
+  "name": "Grandmaster Slate",
+  "description": "Offline-ready AI chess suite with 4 difficulty tiers, win streak tracking, and centipawn blunder analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
